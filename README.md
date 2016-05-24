@@ -1,3 +1,3 @@
 # Transactions
 
-All the java classes are under app/main/java
+All the java classes are under app/src/main/java
